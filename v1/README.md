@@ -25,10 +25,10 @@ rm -rf /tmp/etcd-data.tmp && mkdir -p /tmp/etcd-data.tmp && \
 
 ### run server
 ```
-go run learning/user_agent/main.go
+go run user_agent/main.go
 ```
 
 ### run client
 ```
-go test -v  learning/user_agent/client/client_test.go
+go test -v  user_agent/client/client_test.go
 ```

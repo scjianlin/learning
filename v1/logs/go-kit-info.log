@@ -1,2 +1,3 @@
 {"level":"info","ts":1614759733077,"caller":"utils/log.go:104","msg":"[NewLogger] success"}
 {"level":"info","ts":1614759733078,"caller":"user_agent/main.go:77","msg":"[user_agent] run 127.0.0.1:8882"}
+{"level":"info","ts":1614766377238,"caller":"user_agent/main.go:80","msg":"[user_agent] quit err","error":"interrupt"}

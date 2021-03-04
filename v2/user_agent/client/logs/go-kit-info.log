@@ -1,0 +1,3 @@
+{"level":"info","ts":1614845882756,"caller":"utils/log.go:106","msg":"[NewLogger] success"}
+{"level":"info","ts":1614845899949,"caller":"utils/log.go:106","msg":"[NewLogger] success"}
+{"level":"info","ts":1614845982889,"caller":"utils/log.go:106","msg":"[NewLogger] success"}
